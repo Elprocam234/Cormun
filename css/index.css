@@ -1,3 +1,11 @@
+.title_header{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 70px;
+  }
+
 .conocenos__container {
    padding: 0;
    max-width: 70%;
@@ -9,10 +17,10 @@
 }
 
 .banner_color {
-    background: rgb(40,144,33);
-background: radial-gradient(circle, rgba(40,144,33,1) 0%, rgba(108,195,99,1) 88%, rgba(160,233,148,1) 100%);
+ 
+background: radial-gradient(circle, rgb(56, 111, 148) 0%, rgb(54, 121, 148) 88%, rgb(21, 104, 143) 100%);
 }
 
 .texto_color {
-    color: #2c9325;
+    color: #2f92e4;
 }
