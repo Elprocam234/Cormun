@@ -80,8 +80,8 @@
         loop: true,
         nav : true,
         navText : [
-            '<i class="fa fa-angle-left" aria-hidden="true"></i>',
-            '<i class="fa fa-angle-right" aria-hidden="true"></i>'
+            '<i class="fa fa-angle-left" style="color:#fff;" aria-hidden="true"></i>',
+            '<i class="fa fa-angle-right" style="color:#fff;" aria-hidden="true"></i>'
         ],
         responsive: {
             0:{
